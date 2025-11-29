@@ -1,0 +1,15 @@
+2025-11-25 15:09:29,503 [INFO] event=Database initialized at /home/bixu/pmcli/data/vault.db
+2025-11-25 15:09:38,653 [INFO] event=User created username=bixu
+2025-11-25 15:09:44,530 [INFO] event=Login successful username=bixu user_id=1
+2025-11-25 15:09:54,392 [INFO] event=Login successful username=bixu user_id=1
+2025-11-25 15:10:06,757 [INFO] event=Entry created user_id=1 entry_id=1 name=test
+2025-11-25 15:10:14,704 [INFO] event=Login successful username=bixu user_id=1
+2025-11-25 15:10:53,792 [WARNING] event=Login failed username=test reason=no_such_user
+2025-11-25 15:11:02,319 [INFO] event=Login successful username=bixu user_id=1
+2025-11-29 15:29:03,697 [INFO] event=Database initialized at /home/bixu/pmcli/data/vault.db
+2025-11-29 15:29:18,310 [INFO] event=Database initialized at /home/bixu/pmcli/data/vault.db
+2025-11-29 15:29:18,478 [INFO] event=User created username=alice
+2025-11-29 15:29:37,623 [INFO] event=Login successful username=alice user_id=2
+2025-11-29 15:29:44,318 [INFO] event=Entry created user_id=2 entry_id=2 name=test
+2025-11-29 15:29:59,394 [INFO] event=Login successful username=alice user_id=2
+2025-11-29 15:30:22,025 [INFO] event=Login successful username=alice user_id=2
