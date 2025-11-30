@@ -50,7 +50,7 @@ Paths are defined in `core/config.py`.
 ## 5. Security Model
 
 - Master password hashed with bcrypt  
-- Entry data encrypted with Fernet (AES-128 in GCM mode)  
+- Entry data encrypted with Fernet (AES-128 in CBC mode)  
 - PBKDF2-HMAC-SHA256 key derivation  
 - Per-user entry isolation  
 
